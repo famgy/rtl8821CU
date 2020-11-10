@@ -10,7 +10,7 @@ https://blog.csdn.net/qq_28321119/article/details/104062127
 
 * https://github.com/qslia/rtl8821CU/blob/master/README.md
 
-*　make
+* make
 * sudo make install
 * sudo modprobe 8821cu
 * sudo usb_modeswitch -KW -v 0bda -p 1a2b 
