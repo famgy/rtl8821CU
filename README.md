@@ -10,10 +10,10 @@ lsusb
 
 https://github.com/qslia/rtl8821CU/blob/master/README.md
 
-make
-sudo make install
-sudo modprobe 8821cu
-sudo usb_modeswitch -KW -v 0bda -p 1a2b 
+*　make
+* sudo make install
+* sudo modprobe 8821cu
+* sudo usb_modeswitch -KW -v 0bda -p 1a2b 
 
 
 
