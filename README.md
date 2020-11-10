@@ -1,3 +1,25 @@
+ 1a2b Realtek Semiconductor Corp 无线网卡linux驱动
+ 
+https://blog.csdn.net/qq_28321119/article/details/104062127
+
+
+----
+
+
+lsusb
+
+https://github.com/qslia/rtl8821CU/blob/master/README.md
+
+make
+sudo make install
+sudo modprobe 8821cu
+sudo usb_modeswitch -KW -v 0bda -p 1a2b 
+
+
+
+
+－－－－
+
 # rtl8821CU
 [![Build Status](https://travis-ci.org/whitebatman2/rtl8821CU.svg?branch=master)](https://travis-ci.org/whitebatman2/rtl8821CU)
 
