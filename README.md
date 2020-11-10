@@ -6,9 +6,9 @@ https://blog.csdn.net/qq_28321119/article/details/104062127
 ----
 
 
-lsusb
+* lsusb
 
-https://github.com/qslia/rtl8821CU/blob/master/README.md
+* https://github.com/qslia/rtl8821CU/blob/master/README.md
 
 *　make
 * sudo make install
